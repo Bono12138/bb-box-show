@@ -53,7 +53,7 @@ textarea:focus-visible {
   color: #fffaf1;
   isolation: isolate;
   background-color: #17100c;
-  background-image: url("/assets/hero-studio.png");
+  background-image: var(--hero-image);
   background-position: center center;
   background-size: cover;
   overflow: hidden;
@@ -830,6 +830,17 @@ textarea:focus-visible {
   font-size: 13px;
   line-height: 1.7;
 }
+
+.channel-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-top: 8px;
+  color: #fffaf1;
+  font-weight: 750;
+}
+
+.channel-link:hover { color: var(--bb-yellow); }
 
 .about-section {
   display: grid;

@@ -1,11 +1,13 @@
 import { useEffect, useState } from "react";
 import { ArrowDown, ArrowRight, Check, List, X } from "@phosphor-icons/react";
 
+const assetUrl = (filename) => `${import.meta.env.BASE_URL}assets/${filename}`;
+
 const needs = [
   {
     id: "chat",
     title: "聊天成员",
-    image: "/assets/need-chat-member.png",
+    image: assetUrl("need-chat-member.png"),
     alt: "一把空着的藤编木椅",
     description: ["愿意表达，也会听人说话。", "还要能把别人的话接下去。"],
     action: "我想来聊聊",
@@ -13,7 +15,7 @@ const needs = [
   {
     id: "production",
     title: "制作伙伴",
-    image: "/assets/need-production.png",
+    image: assetUrl("need-production.png"),
     alt: "一本黑色制作笔记本和一支笔",
     description: ["会策划、拍摄或收音？", "会剪辑、设计或运营？", "欢迎一起把节目做出来。"],
     action: "我能参与制作",
@@ -21,7 +23,7 @@ const needs = [
   {
     id: "venue",
     title: "场地设备",
-    image: "/assets/need-venue.png",
+    image: assetUrl("need-venue.png"),
     alt: "一盏亮起的电影灯",
     description: ["我们在找适合围坐的空间。", "也需要多人收音。", "灯光和拍摄支持也需要。"],
     action: "我有场地或设备",
@@ -29,7 +31,7 @@ const needs = [
   {
     id: "topic",
     title: "话题故事",
-    image: "/assets/need-topic.png",
+    image: assetUrl("need-topic.png"),
     alt: "一叠空白话题卡和一支铅笔",
     description: ["可以投来你的真实经历。", "也可以投来一个问题。"],
     action: "我有一个话题",
@@ -37,7 +39,7 @@ const needs = [
   {
     id: "partner",
     title: "合作资源",
-    image: "/assets/need-partner.png",
+    image: assetUrl("need-partner.png"),
     alt: "一只黑色陶瓷杯",
     description: ["有品牌、社区或传播渠道？", "有其他支持方式也可以。", "来聊聊怎样一起做事。"],
     action: "我想谈合作",
@@ -97,7 +99,7 @@ function BrandMark({ compact = false }) {
       aria-label="BB 箱子首页"
     >
       <span className="brand-icon" aria-hidden="true">
-        <img src="/assets/bb-rabbit-mark.png" alt="" />
+        <img src={assetUrl("bb-rabbit-mark.png")} alt="" />
       </span>
       <span className="brand-wordmark">
         <span className="brand-title">
@@ -207,7 +209,11 @@ export function App() {
 
   return (
     <main>
-      <section className="hero" id="top">
+      <section
+        className="hero"
+        id="top"
+        style={{ "--hero-image": `url("${assetUrl("hero-studio.png")}")` }}
+      >
         <nav className="site-nav" aria-label="主导航">
           <BrandMark />
           <button
@@ -390,7 +396,7 @@ export function App() {
 
           <figure className="mascot-card">
             <span className="mascot-portrait" aria-hidden="true">
-              <img src="/assets/bb-rabbit-mark.png" alt="" loading="lazy" />
+              <img src={assetUrl("bb-rabbit-mark.png")} alt="" loading="lazy" />
             </span>
             <figcaption>
               <span>BB 兔</span>
@@ -454,7 +460,7 @@ export function App() {
             <p className="channel-title">三个入口，各自把一件事做好</p>
             <dl className="channel-list">
               <div>
-                <dt>网站 <span>正在搭建</span></dt>
+                <dt>网站 <span>当前入口</span></dt>
                 <dd><span>让人看懂节目，看到进度。</span><span>也能找到参与入口。</span></dd>
               </div>
               <div>
@@ -462,8 +468,19 @@ export function App() {
                 <dd><span>承接报名、协作和任务。</span><span>也保存共创中产生的文档。</span></dd>
               </div>
               <div>
-                <dt>GitHub <span>随后建立</span></dt>
-                <dd><span>保存版本和制作资料。</span><span>也保存可以复用的方法。</span></dd>
+                <dt>GitHub <span>公开仓库</span></dt>
+                <dd>
+                  <span>保存版本和制作资料。</span>
+                  <span>也保存可以复用的方法。</span>
+                  <a
+                    className="channel-link"
+                    href="https://github.com/Bono12138/bb-box-show"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    查看公开仓库 <ArrowRight size={15} weight="bold" />
+                  </a>
+                </dd>
               </div>
             </dl>
           </div>

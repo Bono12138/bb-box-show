@@ -20,3 +20,4 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 - Use the existing BB Rabbit identity as a restrained brand signature: derive a compact transparent mark for the custom wordmark, backstage/open-work section, and footer instead of placing the original white-background logo directly in the interface. Do not turn the site into a children\'s cartoon or repeat the mascot in every section.
 - Reveal the project in this order: the program itself, current participation needs, real formation progress, AI-native backstage work, then the open and reusable records. The first viewport stays focused on the show.
 - The top-left brand must use the designed BB Rabbit wordmark rather than a plain type-only `BB 箱子` label.
+- Publish this project from the dedicated public GitHub repository `Bono12138/bb-box-show` through GitHub Pages.
