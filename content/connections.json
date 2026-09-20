@@ -1,0 +1,15 @@
+{
+  "siteUrl": "https://bono12138.github.io/bb-box-show",
+  "repository": "https://github.com/Bono12138/bb-box-show",
+  "forms": {
+    "chat": {"url": "https://my.feishu.cn/share/base/shrcnEGXqwOLHCpoeI6aNnHNzPe", "verified": true},
+    "production": {"url": "https://my.feishu.cn/share/base/shrcnYaFFYiw1Ch4scGlKehsiEG", "verified": true},
+    "venue": {"url": "https://my.feishu.cn/share/base/shrcnhhUi4jUUmGIPQ5DLKnNVOd", "verified": true},
+    "topic": {"url": "https://my.feishu.cn/share/base/shrcnQj99UiVarzJECq5ziEkWIc", "verified": true},
+    "partner": {"url": "https://my.feishu.cn/share/base/shrcnkDnLimtQe3kcYBicdiCrvg", "verified": true}
+  },
+  "wechatId": null,
+  "wechatQr": null,
+  "analyticsEnabled": false,
+  "updatedAt": "2026-09-21"
+}
