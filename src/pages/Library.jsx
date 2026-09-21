@@ -95,12 +95,12 @@ function PeopleDirectory({ c }) {
 
 export function Collection({ path }) {
   const c = collections[path];
-  if (path === "/people/") return <PeopleDirectory c={c} />;
   const [tag, setTag] = useState("全部");
+  if (path === "/people/") return <PeopleDirectory c={c} />;
   const list = articles.filter((a) => c.types.includes(a.type));
   const groups = {
-    "先了解过程": ["new-friend-guide", "first-meeting", "pilot-procedure", "chat-guide", "production-guide", "venue-guide", "topic-guide", "partner-guide"],
-    "具体记录": ["revenue", "rights", "privacy", "equipment", "weekly-review", "recording-consent"],
+    "先了解过程": ["new-friend-guide", "after-work-table", "anonymous-guest", "creator-collaboration", "first-meeting", "pilot-procedure", "chat-guide", "production-guide", "venue-guide", "topic-guide", "partner-guide"],
+    "具体记录": ["governance-v01", "revenue", "rights", "privacy", "equipment", "weekly-review", "recording-consent"],
     "拿走方法": ["open-source", "pilot-procedure", "weekly-review", "recording-consent"],
     "AI 工作方法": ["ai-workflow"],
   };
