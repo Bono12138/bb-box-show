@@ -6,6 +6,7 @@ import {
   articleHref,
   roles,
   topics,
+  audiencePaths,
 } from "../lib/content.js";
 import { Text, LinkButton, ArticleRow, Contact } from "../components.jsx";
 export function Home() {
@@ -41,6 +42,27 @@ export function Home() {
             <span>正在找人 · 找场地 · 准备第一次试聊</span>
             <span>场景为视觉示意，实际录制场地待定</span>
           </div>
+        </div>
+      </section>
+      <section className="section container audience-section" id="paths">
+        <div className="section-intro split-intro">
+          <div>
+            <p className="eyebrow">从这里进入</p>
+            <h2><Text>你来这里，不一定是为了同一件事。</Text></h2>
+          </div>
+          <div>
+            <p><Text>先看懂这是一档多人喜剧聊天节目，再按你真正关心的东西继续往里走。</Text></p>
+          </div>
+        </div>
+        <div className="audience-grid">
+          {audiencePaths.map((item) => (
+            <a className="audience-card" href={articleHref(item.slug)} key={item.title}>
+              <span className="audience-dot" aria-hidden="true" />
+              <h3>{item.title}</h3>
+              <p><Text>{item.copy}</Text></p>
+              <span className="audience-more">继续看 <ArrowUpRight size={17}/></span>
+            </a>
+          ))}
         </div>
       </section>
       <section className="section topics-section container" id="topics">
