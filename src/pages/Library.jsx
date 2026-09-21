@@ -5,7 +5,7 @@ import {
   DownloadSimple,
   MagnifyingGlass,
 } from "@phosphor-icons/react";
-import { articles, roles, config, href, articleHref } from "../lib/content.js";
+import { articles, roles, config, href, articleHref, peopleGroups } from "../lib/content.js";
 import { Text, ArticleRow, Contact, LinkButton } from "../components.jsx";
 import { track } from "../lib/analytics.js";
 import { searchArticles } from "../lib/search.js";
@@ -36,8 +36,66 @@ const collections = {
     label: "幕后资料",
   },
 };
+
+function PeopleDirectory({ c }) {
+  return (
+    <>
+      <div className="page-head container">
+        <p className="eyebrow">{c.label}</p>
+        <h1><Text>先把位置摆出来，再等真正的人坐进来。</Text></h1>
+        <p className="lede">
+          <Text>这些分组只是为了让新朋友看懂项目，不代表固定职位。你做了什么，我们就记录什么；同一个人可以跨组做很多事。</Text>
+        </p>
+      </div>
+      <section className="container people-directory">
+        {peopleGroups.map((group) => (
+          <section className="people-group" key={group.title}>
+            <div className="people-group-head">
+              <p className="eyebrow">{group.title}</p>
+              <p className="muted"><Text>{group.note}</Text></p>
+            </div>
+            <div className="people-cards">
+              {group.members.map((member, i) => {
+                const card = (
+                  <>
+                    <div className="person-avatar" aria-hidden="true">
+                      {member.name === "Bono" ? "B" : "?"}
+                    </div>
+                    <div className="person-card-copy">
+                      <p className="meta">{member.status}</p>
+                      <h2>{member.name}</h2>
+                      <strong>{member.role}</strong>
+                      <p><Text>{member.copy}</Text></p>
+                    </div>
+                    {member.slug ? <ArrowUpRight size={22} /> : null}
+                  </>
+                );
+                return member.slug ? (
+                  <a className="person-card" href={articleHref(member.slug)} key={member.role + i}>{card}</a>
+                ) : (
+                  <div className="person-card person-card-vacant" key={member.role + i}>{card}</div>
+                );
+              })}
+            </div>
+          </section>
+        ))}
+        <div className="people-principle">
+          <h2>职位不是边界，贡献记录才是。</h2>
+          <p><Text>拍一条宣传短视频、完成一次收音、拉来一个场地、写一份选题、修一个网站问题，都可以单独留下记录。后续会把成员页逐步做成真实贡献时间线。</Text></p>
+          <div className="join-actions">
+            <LinkButton to={href("/join/")}>我想认识一下</LinkButton>
+            <a className="text-link" href={articleHref("governance-v01")}>看治理 V0.1 <ArrowRight size={18}/></a>
+          </div>
+        </div>
+      </section>
+      <Contact />
+    </>
+  );
+}
+
 export function Collection({ path }) {
   const c = collections[path];
+  if (path === "/people/") return <PeopleDirectory c={c} />;
   const [tag, setTag] = useState("全部");
   const list = articles.filter((a) => c.types.includes(a.type));
   const groups = {
