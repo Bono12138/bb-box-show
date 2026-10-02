@@ -1,0 +1,11 @@
+{
+  "scope": "Historical upstream verification before this public extraction; not a Mac rerender test. Current checkout lacks required dependencies and excluded assets.",
+  "historical_result": {
+    "rerendered": true,
+    "full_decode_passed": true,
+    "all_360_video_frame_hashes_match_original": true,
+    "source_does_not_require_network_or_API": true,
+    "user_approval_of_design": false
+  },
+  "current_mac_rerendered": false
+}

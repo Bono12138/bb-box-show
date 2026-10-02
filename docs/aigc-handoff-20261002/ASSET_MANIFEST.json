@@ -1,0 +1,793 @@
+{
+  "date_utc": "2026-10-02",
+  "scope": "Public handoff copy. Private Library identifiers remain in the original retained archive outside GitHub.",
+  "files": [
+    {
+      "path": "ASSET_INDEX.md",
+      "bytes": 7754,
+      "sha256": "578c7d7bef5b93c25f98369e4327f547588e955e94c709b8ebc754bfcfeadcad",
+      "origin": "mac_handoff_document_or_contact_sheet",
+      "status": "Handoff verification material; no user creative acceptance implied"
+    },
+    {
+      "origin": "handoff_document_compiled_2026_10_02",
+      "path": "CREATIVE_REQUIREMENTS.md",
+      "bytes": 22024,
+      "sha256": "68db6c892685cf446bc67e52f5a1071af9ad281d1299f19dd4fb816952408025",
+      "recovered_original_sha256": "c44cb191badd9b3a3366e74a45b2188ed11da45d8cdb7e78d058a030cd1f84ab",
+      "public_copy_modified": true,
+      "status": "Handoff verification material; no user creative acceptance implied"
+    },
+    {
+      "origin": "handoff_document_compiled_2026_10_02",
+      "path": "PENDING_STATE.md",
+      "bytes": 2766,
+      "sha256": "aad5d2f04d5fbee44b389f0019a442095f8b3376604ea167b247a746ca654dba",
+      "recovered_original_sha256": "a97bb614d80acda9d0d83ce03b6fbdd23b1d4091d0cd28b6ad1df686b15beec8",
+      "public_copy_modified": true,
+      "status": "Handoff verification material; no user creative acceptance implied"
+    },
+    {
+      "path": "PUBLICATION_AUDIT.md",
+      "bytes": 3074,
+      "sha256": "8414886a079b78234e57ce986aca2767906ce5a8ca8e06b8eef789359ac49bd9",
+      "origin": "mac_handoff_document_or_contact_sheet",
+      "status": "Handoff verification material; no user creative acceptance implied"
+    },
+    {
+      "origin": "handoff_document_compiled_2026_10_02",
+      "path": "README.md",
+      "bytes": 4316,
+      "sha256": "ddd0639f1dc96a006be0e55a81d8bcfbafdc2a6f580f42744f8ef713da7614bc",
+      "recovered_original_sha256": "be8bd889d50bb6ac843f44f7ed3e51c573fcb6680ae597c129d6e2f325a362dd",
+      "public_copy_modified": true,
+      "status": "Handoff verification material; no user creative acceptance implied"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 358,
+      "sha256": "b778ca36aa925c6ea2d9e73f48cb0cf157a4948c772d0e9fa17c5812569e7b6d",
+      "origin": "mac_handoff_document_or_contact_sheet",
+      "status": "Handoff verification material; no user creative acceptance implied"
+    },
+    {
+      "original_filename": "DIRECTOR-DECISION-FRAMEWORK.md",
+      "created_at": "2026-09-30T17:40:36.331808Z",
+      "origin": "report",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/DIRECTOR-DECISION-FRAMEWORK.md",
+      "bytes": 32588,
+      "sha256": "e35502a6684ecfd43ff027a64f0152d8dea64461e6346ec4b2d9404acaae5a79",
+      "recovered_original_sha256": "3f4af9dbf541f8569be66b142f4f3a2e50d4080c2e82c5169c6d95747d7c523f",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "reference-audit.md",
+      "created_at": "2026-09-30T13:40:51.012561Z",
+      "origin": "report",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/reference-audit.md",
+      "bytes": 10241,
+      "sha256": "34b01bd980cccfa45db3764c8e5cbf72437a1a4ee9accee6b2bec52bb251e804",
+      "recovered_original_sha256": "8f1d01641efdc9a2594741d91bf99224faeb7b675cffac511f3f392ff8487e00",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "reference-motion-audit.md",
+      "created_at": "2026-09-30T16:52:48.517145Z",
+      "origin": "report",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/reference-motion-audit.md",
+      "bytes": 24071,
+      "sha256": "aee6be71740a3262d28d633724abb28d376ea0732979c9ace72f6ffcb255bf5b",
+      "recovered_original_sha256": "2f83139f1dbae3b1d398ec44b4a477d079b79f22c04fad38ce697240e3df6575",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "几何测试结论.md",
+      "created_at": "2026-09-30T16:52:48.541123Z",
+      "origin": "report",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/几何测试结论.md",
+      "bytes": 2886,
+      "sha256": "5ac5998d44ecb21ba80ff566b1ca4e48495d28f1234a2f814ee5c1f84a68a952",
+      "recovered_original_sha256": "21e6ac7c46349a6a96972e7e854d9696605a582509fc7c23c66c3c3f3eef221a",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "制作与剪辑说明.md",
+      "created_at": "2026-09-30T10:50:56.099613Z",
+      "origin": "other",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/制作与剪辑说明.md",
+      "bytes": 2930,
+      "sha256": "6a507b57aa16331bb9348ba882d8f676ed3069e38d7aa9fd0ddc76afac5800f5",
+      "recovered_original_sha256": "9ea0473363582dba40bce4564d3ae7d14f2a6d3c15710fa70dd483b1fb1dc337",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "制作要求与片尾复核.md",
+      "created_at": "2026-09-30T14:01:18.548256Z",
+      "origin": "other",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/制作要求与片尾复核.md",
+      "bytes": 9503,
+      "sha256": "7b250c22faa3217882230cb00d24e89a8cd48899a15abbb0f8fff42fceda9f91",
+      "recovered_original_sha256": "02d8ec9ac0dc335c3845a0eee91f88948acfe43332bcf7c97fac8b3981d4f4dc",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "导演修订与来源.md",
+      "created_at": "2026-09-30T14:48:45.889217Z",
+      "origin": "report",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/导演修订与来源.md",
+      "bytes": 6357,
+      "sha256": "d9dc7c942f26c68feca03a555cc6e2ef419bafa8f102c6b55021c84343c577e9",
+      "recovered_original_sha256": "3de5356839c62a5e509d657c33bd4738ad1dd65550698e2bc3940a98e4eb6d4a",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "导演校正与审核说明.md",
+      "created_at": "2026-09-30T13:38:08.312126Z",
+      "origin": "other",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/导演校正与审核说明.md",
+      "bytes": 5628,
+      "sha256": "eed8280b618d30b272f15a2213315c9907f37199f9c88eb69b61c1f19183a3ed",
+      "recovered_original_sha256": "fb3b6c4049ffed25c2d62b5e8dea268098a2771f254aa0df7b666fe9870179e4",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "整片导演方案_阶段2.md",
+      "created_at": "2026-09-30T16:52:48.432689Z",
+      "origin": "report",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/整片导演方案_阶段2.md",
+      "bytes": 11592,
+      "sha256": "b2e2b6a69bb9c51b3ad5cda33bbc7f055a593b5281c1c5ef219ffe5a20390b70",
+      "recovered_original_sha256": "b9eae46dbeb04ff2f13aa0d0430bbcd3924f052c3f4a7be24d499f2efc522474",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "本轮修订说明.md",
+      "created_at": "2026-09-30T14:21:46.535197Z",
+      "origin": "report",
+      "status": "Historical project working document; current handoff README overrides superseded directions",
+      "path": "documents/historical_working_docs/本轮修订说明.md",
+      "bytes": 4868,
+      "sha256": "779284f8571b2c612aaf6e5b8120a55c03f8e6e172c04b1e32e583271e7b4004",
+      "recovered_original_sha256": "e74581ee735fdad12c271809bd62bbaa4803dd05d880c433d05bbbf8c4f68a0b",
+      "public_copy_modified": true
+    },
+    {
+      "path": "gallery.html",
+      "bytes": 15918,
+      "sha256": "c2d402142c019cf5a8f31c5d2e7f611dbd033134f7eb4a2e526cf09e65550a61",
+      "origin": "mac_handoff_document_or_contact_sheet",
+      "status": "Handoff verification material; no user creative acceptance implied"
+    },
+    {
+      "original_filename": "exec-ffab9f64-10da-4907-b32a-069ea2645636.png",
+      "created_at": "2026-09-30T16:51:01.773462Z",
+      "origin": "image_gen",
+      "status": "Photographic candidate passed internal review; NOT user accepted; motion unverified",
+      "path": "images/01_photographic_candidates/exec-ffab9f64-10da-4907-b32a-069ea2645636.png",
+      "bytes": 2350225,
+      "sha256": "06bf0a18c92d4654c3cf2bf9e1adcf3458e776af8f87e51ef7ec23c3cb5c9e74",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "假相机五嘉宾_尾构图01.png",
+      "created_at": "2026-09-30T17:09:46.860929Z",
+      "origin": "image_gen",
+      "status": "Photographic candidate passed internal review; NOT user accepted; motion unverified",
+      "path": "images/01_photographic_candidates/假相机五嘉宾_尾构图01.png",
+      "bytes": 2216272,
+      "sha256": "e7e012241ade7ec98fd00810eb5c23d294272428fe035f8a7f1ae3bb1d2f5a3e",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "假相机五嘉宾_首构图01.png",
+      "created_at": "2026-09-30T17:09:46.736291Z",
+      "origin": "image_gen",
+      "status": "Photographic candidate passed internal review; NOT user accepted; motion unverified",
+      "path": "images/01_photographic_candidates/假相机五嘉宾_首构图01.png",
+      "bytes": 2123371,
+      "sha256": "620d2cd4a32f2e88fad10b8737cfb521e8e0f785c4e407dc45798195764c88ae",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "清兵马车三嘉宾_关键图01.png",
+      "created_at": "2026-09-30T18:17:28.350565Z",
+      "origin": "image_gen",
+      "status": "Photographic candidate passed internal review; NOT user accepted; motion unverified",
+      "path": "images/01_photographic_candidates/清兵马车三嘉宾_关键图01.png",
+      "bytes": 2482624,
+      "sha256": "2f9cb2398b242c7384bbe84d2bd564331542d84e98f80933229bac7c2b9cf119",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "老太太拳击四嘉宾_关键图02.png",
+      "created_at": "2026-09-30T18:17:28.313318Z",
+      "origin": "image_gen",
+      "status": "Photographic candidate passed internal review; NOT user accepted; motion unverified",
+      "path": "images/01_photographic_candidates/老太太拳击四嘉宾_关键图02.png",
+      "bytes": 2449230,
+      "sha256": "f61361ab189d3c7bd42648e9303ea056b078a496e3279d0f7f8807a3f4c8fd4c",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "车顶三嘉宾_尾构图01.png",
+      "created_at": "2026-09-30T17:32:15.717103Z",
+      "origin": "image_gen",
+      "status": "Photographic candidate passed internal review; NOT user accepted; motion unverified",
+      "path": "images/01_photographic_candidates/车顶三嘉宾_尾构图01.png",
+      "bytes": 2109402,
+      "sha256": "0125aac2ef3371d4c4e3d8152d40d901e22340c881a8d4132b67531f5f138da6",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "车顶三嘉宾_首构图01.png",
+      "created_at": "2026-09-30T17:32:15.851184Z",
+      "origin": "image_gen",
+      "status": "Photographic candidate passed internal review; NOT user accepted; motion unverified",
+      "path": "images/01_photographic_candidates/车顶三嘉宾_首构图01.png",
+      "bytes": 2201976,
+      "sha256": "a722f703f5dc02a0c673c9e8232b3310cf4bcb500b0305e7c3f4f6bfbafac6a7",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "骑猪潜艇三嘉宾_结果图01.png",
+      "created_at": "2026-09-30T18:17:28.351123Z",
+      "origin": "image_gen",
+      "status": "Photographic candidate passed internal review; NOT user accepted; motion unverified",
+      "path": "images/01_photographic_candidates/骑猪潜艇三嘉宾_结果图01.png",
+      "bytes": 2754266,
+      "sha256": "604ed8ab03871e0328c1705cae50485c4cd03ff5ad0a938af50c2d8b6fc30358",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "鲨鱼续水四嘉宾_关键图01.png",
+      "created_at": "2026-09-30T17:32:15.848812Z",
+      "origin": "image_gen",
+      "status": "Photographic candidate passed internal review; NOT user accepted; motion unverified",
+      "path": "images/01_photographic_candidates/鲨鱼续水四嘉宾_关键图01.png",
+      "bytes": 2105586,
+      "sha256": "64e0ef26daaa9fa0cdea1babb68586b17cc3f990afba4566e2d5f5858fcc91a3",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-0895c41e-b6a6-449c-abde-16f9256aedce.png",
+      "created_at": "2026-09-30T10:36:38.275715Z",
+      "origin": "image_gen",
+      "status": "Historical concept or storyboard; superseded; NOT final production input",
+      "path": "images/02_historical_generated/exec-0895c41e-b6a6-449c-abde-16f9256aedce.png",
+      "bytes": 2368332,
+      "sha256": "352b974fa8238dcdf1e4f77bd1760df9f52731d6c2d075304491f34537ef7f0f",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-1db0a5ca-f555-476f-9864-ecba9a49e7e8.png",
+      "created_at": "2026-09-30T09:23:33.218846Z",
+      "origin": "image_gen",
+      "status": "Superseded first moon image; ordinary external human microphones are physically inappropriate",
+      "path": "images/02_historical_generated/exec-1db0a5ca-f555-476f-9864-ecba9a49e7e8.png",
+      "bytes": 2829261,
+      "sha256": "817f85c72a0301f046d5249c2ffd70b420d44a44afeac9af80c9e65a9eb6ae3c",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-33a4ec89-3d2b-4ff2-b2a4-06fd913f97bd.png",
+      "created_at": "2026-09-30T09:45:36.336410Z",
+      "origin": "image_gen",
+      "status": "Historical concept or storyboard; superseded; NOT final production input",
+      "path": "images/02_historical_generated/exec-33a4ec89-3d2b-4ff2-b2a4-06fd913f97bd.png",
+      "bytes": 2955456,
+      "sha256": "e407f9a2213fa80c3059b970e24a089a3c718778fd7e7f600fea139aecbbc0e8",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-43cd7648-c19f-4adf-96d6-358b184ac770.png",
+      "created_at": "2026-09-30T08:52:39.183171Z",
+      "origin": "image_gen",
+      "status": "USER-REJECTED first cartoon underwater concept; also 941x1672, not current 3:4 requirement",
+      "path": "images/02_historical_generated/exec-43cd7648-c19f-4adf-96d6-358b184ac770.png",
+      "bytes": 2620128,
+      "sha256": "a39a0aaa10e555c0bf830cdb631f7c332fe2695b6df43a646dc0b9b7d5dd2ab7",
+      "width": 941,
+      "height": 1672,
+      "aspect_ratio": "941:1672"
+    },
+    {
+      "original_filename": "exec-4a76ad05-0597-4b03-96fe-f33d0539d278.png",
+      "created_at": "2026-09-30T09:32:27.850612Z",
+      "origin": "image_gen",
+      "status": "Historical concept or storyboard; superseded; NOT final production input",
+      "path": "images/02_historical_generated/exec-4a76ad05-0597-4b03-96fe-f33d0539d278.png",
+      "bytes": 2877948,
+      "sha256": "fcc3a03c2e746a5ddceb90ec5490810f470a0f6e3118cbd89b8d2ed3422f5067",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-6b247c3d-88f2-43c5-a7a4-29baece25285.png",
+      "created_at": "2026-09-30T09:25:33.218345Z",
+      "origin": "image_gen",
+      "status": "Historical concept or storyboard; superseded; NOT final production input",
+      "path": "images/02_historical_generated/exec-6b247c3d-88f2-43c5-a7a4-29baece25285.png",
+      "bytes": 2698256,
+      "sha256": "e5f218c4785e54f0526b97cd03d9e1cbaa670511e1508de1949d79e459b4d874",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-70c0234b-8122-4f76-882a-eba9cb2efd93.png",
+      "created_at": "2026-09-30T10:00:36.908832Z",
+      "origin": "image_gen",
+      "status": "Historical concept or storyboard; superseded; NOT final production input",
+      "path": "images/02_historical_generated/exec-70c0234b-8122-4f76-882a-eba9cb2efd93.png",
+      "bytes": 2788274,
+      "sha256": "feee67f1f5df8cb0f7e5864e557dcc7c8d3b1d847b531635874ca0ee0227110b",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-7d2032a5-97ca-4616-9ad5-778746e8124d.png",
+      "created_at": "2026-09-30T10:43:35.410457Z",
+      "origin": "image_gen",
+      "status": "Historical concept or storyboard; superseded; NOT final production input",
+      "path": "images/02_historical_generated/exec-7d2032a5-97ca-4616-9ad5-778746e8124d.png",
+      "bytes": 2215785,
+      "sha256": "9971a5b16129fea7d0df6654941170eedba9c4a0d6421cbec360ed066c127623",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-a30e15fd-2360-431e-9dc4-189f209a6965.png",
+      "created_at": "2026-09-30T10:11:11.324392Z",
+      "origin": "image_gen",
+      "status": "Historical concept or storyboard; superseded; NOT final production input",
+      "path": "images/02_historical_generated/exec-a30e15fd-2360-431e-9dc4-189f209a6965.png",
+      "bytes": 2794539,
+      "sha256": "ac7aaee2bf42d154a21b016b77b3be1beff6d79498f041eb86a0ac735e1fbec8",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-b40fba8c-f71c-42bd-8b9f-1356891b0075.png",
+      "created_at": "2026-09-30T09:00:46.748747Z",
+      "origin": "image_gen",
+      "status": "Historical concept or storyboard; superseded; NOT final production input",
+      "path": "images/02_historical_generated/exec-b40fba8c-f71c-42bd-8b9f-1356891b0075.png",
+      "bytes": 2603562,
+      "sha256": "778b06145f1ee0583e42b9b24f7c821789172b669bf32cf934d082209942b79c",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "exec-ec1db0f1-2480-41dc-a4b3-c2ab6c3cd6bd.png",
+      "created_at": "2026-09-30T10:23:24.758497Z",
+      "origin": "image_gen",
+      "status": "User approved photographic texture ONLY; scene, guest count, script and prop details not approved",
+      "path": "images/02_historical_generated/exec-ec1db0f1-2480-41dc-a4b3-c2ab6c3cd6bd.png",
+      "bytes": 2202641,
+      "sha256": "786551ccec850307b42486322ddb63ebd4612dd6383d026cd9099aa6b9184d00",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "BB箱子_七场整片摄影候选总板_D3.png",
+      "created_at": "2026-09-30T18:17:28.312579Z",
+      "origin": "image",
+      "status": "Current D3 candidate board; NOT user accepted",
+      "path": "images/03_boards_and_geometry/BB箱子_七场整片摄影候选总板_D3.png",
+      "bytes": 3245333,
+      "sha256": "0604142fa24a31871ae5d4df613c9d10a8f381b24bb3af2c3dd21f94b4d4ef3b",
+      "width": 1800,
+      "height": 1670,
+      "aspect_ratio": "1800:1670"
+    },
+    {
+      "original_filename": "两场空间机位图.png",
+      "created_at": "2026-09-30T16:52:48.501328Z",
+      "origin": "image",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/03_boards_and_geometry/两场空间机位图.png",
+      "bytes": 199255,
+      "sha256": "29f853e3a4fb5730703804eb6b6debdeae1eea0669a76e623a58ca5d4b63523a",
+      "width": 2100,
+      "height": 1350,
+      "aspect_ratio": "2100:1350"
+    },
+    {
+      "original_filename": "两场首中尾_几何占位.png",
+      "created_at": "2026-09-30T16:52:49.342199Z",
+      "origin": "image",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/03_boards_and_geometry/两场首中尾_几何占位.png",
+      "bytes": 745710,
+      "sha256": "a7cb83d0181d0c3c485413897cefbd5ea231c38e9def5480de3cb4ec69be1d8d",
+      "width": 1080,
+      "height": 1160,
+      "aspect_ratio": "1080:1160"
+    },
+    {
+      "original_filename": "假相机五嘉宾_首尾摄影候选对照.png",
+      "created_at": "2026-09-30T17:09:46.922774Z",
+      "origin": "image",
+      "status": "Current D3 candidate board; NOT user accepted",
+      "path": "images/03_boards_and_geometry/假相机五嘉宾_首尾摄影候选对照.png",
+      "bytes": 4345216,
+      "sha256": "e5217dac21954574f949e2e1f0bf0bac2b3f83d2a33469a48b336288fef5815a",
+      "width": 2172,
+      "height": 1532,
+      "aspect_ratio": "2172:1532"
+    },
+    {
+      "original_filename": "车顶_加入玻璃终点.png",
+      "created_at": "2026-09-30T16:52:48.451032Z",
+      "origin": "image",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/03_boards_and_geometry/车顶_加入玻璃终点.png",
+      "bytes": 552381,
+      "sha256": "6f5c290318785495498f49dad4d28f90c336b69366790bfd8515b3d39b98c3be",
+      "width": 540,
+      "height": 720,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "original_filename": "车顶三嘉宾_首尾摄影候选对照.png",
+      "created_at": "2026-09-30T17:32:15.872167Z",
+      "origin": "image",
+      "status": "Current D3 candidate board; NOT user accepted",
+      "path": "images/03_boards_and_geometry/车顶三嘉宾_首尾摄影候选对照.png",
+      "bytes": 4313909,
+      "sha256": "be26a2774ad381f90f957c8b5e69d25730caeed2214685ae2cbec785feb55014",
+      "width": 2172,
+      "height": 1532,
+      "aspect_ratio": "2172:1532"
+    },
+    {
+      "original_filename": "V6_画面与信息顺序.jpg",
+      "created_at": "2026-09-30T14:21:47.146920Z",
+      "origin": "image",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/04_historical_outro_boards/V6_画面与信息顺序.jpg",
+      "bytes": 187323,
+      "sha256": "2be79e02a444ac12c5794aa27242c1968791d58114e185f7df4c1548fa43438a",
+      "width": 1800,
+      "height": 530,
+      "aspect_ratio": "1800:530"
+    },
+    {
+      "original_filename": "outro-overview.png",
+      "created_at": "2026-09-30T10:50:02.562170Z",
+      "origin": "image",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/04_historical_outro_boards/outro-overview.png",
+      "bytes": 57413,
+      "sha256": "c8b3863b461eca7c2d645c9704e2e6a17e16f5acea4102663aa0b15ce9ee2aa1",
+      "width": 1080,
+      "height": 400,
+      "aspect_ratio": "1080:400"
+    },
+    {
+      "original_filename": "v2AB-comparison.png",
+      "created_at": "2026-09-30T11:07:26.417715Z",
+      "origin": "image",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/04_historical_outro_boards/v2AB-comparison.png",
+      "bytes": 106759,
+      "sha256": "f5deb40e8c01d07fe94c804c8417bedaa98ec73860108ce229550a8ce6fb6543",
+      "width": 1080,
+      "height": 720,
+      "aspect_ratio": "1080:720"
+    },
+    {
+      "original_filename": "v3-overview.png",
+      "created_at": "2026-09-30T11:27:29.925100Z",
+      "origin": "image",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/04_historical_outro_boards/v3-overview.png",
+      "bytes": 269778,
+      "sha256": "1c7ce1f05c042f664d72f8952daaf2aeb28769be50e06f23e9bfeba31f04f208",
+      "width": 1080,
+      "height": 360,
+      "aspect_ratio": "1080:360"
+    },
+    {
+      "original_filename": "全片时间线.png",
+      "created_at": "2026-09-30T13:38:05.981955Z",
+      "origin": "other",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/04_historical_outro_boards/全片时间线.png",
+      "bytes": 1680423,
+      "sha256": "9f1a2df341cfcd463dd6a717995bf3c30f995051fd99fab4da75c464812b2553",
+      "width": 1440,
+      "height": 1230,
+      "aspect_ratio": "1440:1230"
+    },
+    {
+      "original_filename": "片尾V5_分层切换对照.jpg",
+      "created_at": "2026-09-30T14:01:17.519259Z",
+      "origin": "other",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/04_historical_outro_boards/片尾V5_分层切换对照.jpg",
+      "bytes": 251270,
+      "sha256": "3e6d7c13ffc49eb881e317ed17d6e650ac06c61dd2d6195d61a2bd34c91b1410",
+      "width": 1800,
+      "height": 530,
+      "aspect_ratio": "1800:530"
+    },
+    {
+      "original_filename": "片尾三屏对照.png",
+      "created_at": "2026-09-30T13:38:07.305216Z",
+      "origin": "other",
+      "status": "Historical board or geometric test; NOT photographic motion acceptance",
+      "path": "images/04_historical_outro_boards/片尾三屏对照.png",
+      "bytes": 881887,
+      "sha256": "fef44aab98267f95586806aa3ce7c3cca029ec343163557bf4efde7ff12f6a71",
+      "width": 1620,
+      "height": 720,
+      "aspect_ratio": "1620:720"
+    },
+    {
+      "original_filename": "C_106BPM_master.wav",
+      "created_at": "2026-09-30T11:09:29.405993Z",
+      "origin": "other",
+      "status": "Original mathematical synthesis rhythm test; NOT final music; subjective sound acceptance not established",
+      "path": "music/original_C_106BPM/C_106BPM_master.wav",
+      "bytes": 2898156,
+      "sha256": "cfd164091e643b67eebd2ba0e4f6aa49f769d0ad961416234770ecc25fc72785"
+    },
+    {
+      "original_filename": "C_106BPM_preview.wav",
+      "created_at": "2026-09-30T11:09:30.677646Z",
+      "origin": "other",
+      "status": "Original mathematical synthesis rhythm test; NOT final music; subjective sound acceptance not established",
+      "path": "music/original_C_106BPM/C_106BPM_preview.wav",
+      "bytes": 1449100,
+      "sha256": "18da7878a5aecbe344b046bd075fad0069b450ccd20186a95c3432793c696080"
+    },
+    {
+      "original_filename": "C_events.csv",
+      "created_at": "2026-09-30T11:09:33.279081Z",
+      "origin": "other",
+      "status": "Original mathematical synthesis rhythm test; NOT final music; subjective sound acceptance not established",
+      "path": "music/original_C_106BPM/C_events.csv",
+      "bytes": 5905,
+      "sha256": "c3bf8596fa22022becb39a826f3fd5d31ff62ab75ffc1c66e7ae285dce838bf4",
+      "recovered_original_sha256": "38eef43d40bd33732a2eefefbad27a9a9b08ad60d1b2d34d0830175e812df252",
+      "public_copy_modified": true
+    },
+    {
+      "original_filename": "C_parameters_QA.json",
+      "created_at": "2026-09-30T11:09:32.385833Z",
+      "origin": "other",
+      "status": "Original mathematical synthesis rhythm test; NOT final music; subjective sound acceptance not established",
+      "path": "music/original_C_106BPM/C_parameters_QA.json",
+      "bytes": 27929,
+      "sha256": "ec967828ac158cfd6e219c769625ce091365561e6de563a6f7d0d2d041f906c7"
+    },
+    {
+      "original_filename": "C_拍点与制作说明.md",
+      "created_at": "2026-09-30T11:09:34.242794Z",
+      "origin": "other",
+      "status": "Original mathematical synthesis rhythm test; NOT final music; subjective sound acceptance not established",
+      "path": "music/original_C_106BPM/C_拍点与制作说明.md",
+      "bytes": 2698,
+      "sha256": "2dd004b0df73935ca0d5dcfda96d64df0f6eafcd06e46627fff24373a71aa16a"
+    },
+    {
+      "original_filename": "generate_c.py",
+      "created_at": "2026-09-30T11:09:31.650398Z",
+      "origin": "other",
+      "status": "Original mathematical synthesis rhythm test; NOT final music; subjective sound acceptance not established",
+      "path": "music/original_C_106BPM/generate_c.py",
+      "bytes": 4750,
+      "sha256": "148ad7f92f3e714d33a915628688a1ab35aa4f42315a29be5b7e1c29cdefd2d9"
+    },
+    {
+      "path": "previews/contact-1.jpg",
+      "bytes": 500355,
+      "sha256": "dc95fe5050bea74d5efaeea2e13ba55f26cc1a5dc7a105a7d430d1beffcd9dc7",
+      "origin": "mac_handoff_document_or_contact_sheet",
+      "status": "Handoff verification material; no user creative acceptance implied",
+      "width": 1440,
+      "height": 1600,
+      "aspect_ratio": "1440:1600"
+    },
+    {
+      "path": "previews/contact-2.jpg",
+      "bytes": 522809,
+      "sha256": "c872f8d70ebecb2c9e1b43ffde1adb06a02c7ddb874d3364d42a7f02175345c4",
+      "origin": "mac_handoff_document_or_contact_sheet",
+      "status": "Handoff verification material; no user creative acceptance implied",
+      "width": 1440,
+      "height": 1600,
+      "aspect_ratio": "1440:1600"
+    },
+    {
+      "path": "previews/contact-3.jpg",
+      "bytes": 332271,
+      "sha256": "be6e82882ee299c542d9804417a8ff97a202c9df4a7158f5fad0e993c6569192",
+      "origin": "mac_handoff_document_or_contact_sheet",
+      "status": "Handoff verification material; no user creative acceptance implied",
+      "width": 1440,
+      "height": 1600,
+      "aspect_ratio": "1440:1600"
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/ORIGINAL_SHA256.json",
+      "bytes": 1833,
+      "sha256": "fb66db951688be13e745d26252e52aac180ee8ccca70aa7a45b3878354e9fc44"
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/QA.json",
+      "bytes": 505,
+      "sha256": "701651d5e7947c8229cd5cf1131c5bb9fcd4fd8c4bc99e87939ab916d64151e7"
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/README.md",
+      "bytes": 1273,
+      "sha256": "b9099b1b8fa0a28abb5989512f4df9fe56c218e9475751725a0521d91116b0da",
+      "recovered_original_sha256": "c6d40b1ec0688b92f2521fcf8ec4c47c905dd9300d4c6c94cab8b129e16f4f0d",
+      "public_copy_modified": true
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/assets/bb-brand-candidate.png",
+      "bytes": 979376,
+      "sha256": "aca447e81b6202f68c82db704e3619f67f31eed30c10aaa107ff694fe4648cc4",
+      "width": 1254,
+      "height": 1254,
+      "aspect_ratio": "1254:1254"
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/assets/storyboard.png",
+      "bytes": 2775482,
+      "sha256": "e760f24e10890bdf632271fa27bed3a572f3e5c16a44da583bbfeee4b32acbba",
+      "width": 1086,
+      "height": 1448,
+      "aspect_ratio": "3:4"
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/fonts/LICENSE-fonts-noto-cjk.txt",
+      "bytes": 14712,
+      "sha256": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b"
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/fonts/LICENSE-fonts-urw-base35.txt",
+      "bytes": 52517,
+      "sha256": "1315a62758a603a3e6e87a79b8389563789c59c1740b9db8bc2b20e2e2145458"
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/portable-verification.json",
+      "bytes": 437,
+      "sha256": "7e2ba458c8e3dec46bf7ce7238b281e71f6f7bfa1537b668f220aa3d7acbd93b",
+      "recovered_original_sha256": "1bb223a949374a643d475d431c7de4ac9e16faca4f680534c850534bf211b8f1",
+      "public_copy_modified": true
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/render_v7.py",
+      "bytes": 7734,
+      "sha256": "b9843fd6c1bc05d759dba622a4dd84bb2842428bebd3266dc700183dd17fcfcd"
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/requirements.txt",
+      "bytes": 13,
+      "sha256": "21aa828e3ee8b30490bd0ed1456dfb5cd8ab0531e453179fa1c3f3f8616bccdc"
+    },
+    {
+      "origin": "extracted_historical_V7_archive",
+      "status": "Historical V7; not current V7.1/D5r1 source; reference asset removed from handoff",
+      "path": "source/historical_V7/导演修订与来源.md",
+      "bytes": 6175,
+      "sha256": "96937bfde0e04678de9b75c00c40419be2e16ebbb9d3242dd65f2768a7a8d82d",
+      "recovered_original_sha256": "3de5356839c62a5e509d657c33bd4738ad1dd65550698e2bc3940a98e4eb6d4a",
+      "public_copy_modified": true
+    },
+    {
+      "path": "verify_assets.py",
+      "bytes": 3708,
+      "sha256": "3254eea41fc6a9898e7e803d300d92cc64054c47d027059b0393ead0b00085eb",
+      "origin": "mac_handoff_document_or_contact_sheet",
+      "status": "Handoff verification material; no user creative acceptance implied"
+    }
+  ],
+  "excluded_from_public_copy": [
+    {
+      "path": "images/04_historical_outro_boards/V7_五个关键画面.jpg",
+      "reason": "实际嵌入第三方参考片来源标志，未获转载授权"
+    },
+    {
+      "path": "source/historical_V7/assets/claude-community.svg",
+      "reason": "工具标识独立再分发未纳入本次公开范围"
+    },
+    {
+      "path": "source/historical_V7/assets/codex-official.svg",
+      "reason": "工具标识独立再分发未纳入本次公开范围"
+    },
+    {
+      "path": "source/historical_V7/assets/github-lockup.png",
+      "reason": "工具标识独立再分发未纳入本次公开范围"
+    },
+    {
+      "path": "source/historical_V7/assets/openai-wordmark.png",
+      "reason": "工具标识独立再分发未纳入本次公开范围"
+    },
+    {
+      "path": "source/historical_V7/claude-symbol.png",
+      "reason": "工具标识独立再分发未纳入本次公开范围"
+    },
+    {
+      "path": "source/historical_V7/codex-icon.png",
+      "reason": "工具标识独立再分发未纳入本次公开范围"
+    }
+  ],
+  "summary": {
+    "primary_images": 33,
+    "photographic_candidates": 9,
+    "historical_generated_images": 11,
+    "boards_and_geometry": 6,
+    "historical_outro_boards": 7,
+    "historical_source_images": 2,
+    "derived_contact_sheets": 3,
+    "missing_expected_photographic_candidates": [
+      "骑猪完整地面／潜艇喷发前：同三人同三猪独立首帧"
+    ],
+    "final_user_accepted": false,
+    "current_mac_v7_rerendered": false
+  }
+}

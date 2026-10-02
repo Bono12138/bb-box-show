@@ -1,0 +1,14 @@
+{
+  "validation_date": "2026-10-02",
+  "scope": "Mac local public-copy verification; no render or subjective audio assessment",
+  "result": {
+    "files": 73,
+    "manifest_entries": 71,
+    "primary_images": 33,
+    "raster_files": 38,
+    "images_fully_decoded": 38,
+    "wav_files_fully_read": 2,
+    "relative_links_checked": 155,
+    "errors": []
+  }
+}

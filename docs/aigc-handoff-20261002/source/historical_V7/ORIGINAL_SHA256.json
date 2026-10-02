@@ -1,0 +1,21 @@
+{
+  "导演修订与来源.md": "3de5356839c62a5e509d657c33bd4738ad1dd65550698e2bc3940a98e4eb6d4a",
+  "requirements.txt": "21aa828e3ee8b30490bd0ed1456dfb5cd8ab0531e453179fa1c3f3f8616bccdc",
+  "README.md": "c6d40b1ec0688b92f2521fcf8ec4c47c905dd9300d4c6c94cab8b129e16f4f0d",
+  "render_v7.py": "b9843fd6c1bc05d759dba622a4dd84bb2842428bebd3266dc700183dd17fcfcd",
+  "codex-icon.png": "97b204e03bdd5ef69780770d055ea11452bde497601c5069db863e72a6902583",
+  "QA.json": "701651d5e7947c8229cd5cf1131c5bb9fcd4fd8c4bc99e87939ab916d64151e7",
+  "claude-symbol.png": "21c03d316b70e736884f32581ca37b31e64e22bc7314bdc055b42e8f6aad3c44",
+  "assets/codex-official.svg": "d3ef08a904d1a7bbc90b6b3ffd173d096642a62e0d5712a7d0765a052fd67d98",
+  "assets/claude-community.svg": "aef68a9c94bdbb26485c7bcc79c94ccc9d798b4f17d20a9019d7932598dc5c1b",
+  "assets/github-lockup.png": "19adb300329b9608daaea3ec94c80949d3c0434a91233028efb032271a1d08f9",
+  "assets/reference-logo.png": "1cf8b5982969cd1af26f2b0a1a4c88da71634551d349de82e60f4d9700e7b4ab",
+  "assets/openai-wordmark.png": "c2a4b58c101ea5b5dbfc23561371da8b5aac9090aa3c2b09f1a9d9cdc6b508c5",
+  "assets/bb-brand-candidate.png": "aca447e81b6202f68c82db704e3619f67f31eed30c10aaa107ff694fe4648cc4",
+  "assets/storyboard.png": "e760f24e10890bdf632271fa27bed3a572f3e5c16a44da583bbfeee4b32acbba",
+  "fonts/LICENSE-fonts-noto-cjk.txt": "849f4ea9c214fa4ac3593b770c699f387534b11ce671264c1b10d85bdcb5997b",
+  "fonts/NotoSansCJK-Bold.ttc": "faa5f3656a78b2e2d450d27fe8382c778bc2b6bb5ea29c986664a6a435056ceb",
+  "fonts/LICENSE-fonts-urw-base35.txt": "1315a62758a603a3e6e87a79b8389563789c59c1740b9db8bc2b20e2e2145458",
+  "fonts/NotoSansCJK-Regular.ttc": "b76b0433203017ca80401b2ee0dd69350349871c4b19d504c34dbdd80541690a",
+  "fonts/NimbusSans-Regular.otf": "7c25be4d78155523080ab85b10277150657ff7dabbcad7037bdd536c9b6d0d08"
+}

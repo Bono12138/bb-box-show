@@ -1,0 +1,1371 @@
+{
+  "bpm": 106,
+  "seed": 930106,
+  "beats": 40,
+  "bar_seconds": 2.2641509433962264,
+  "duration_seconds": 22.641509433962263,
+  "peak_target_dbfs": -2,
+  "rests_beats": [
+    [
+      15.25,
+      16
+    ],
+    [
+      27.5,
+      28
+    ]
+  ],
+  "events": [
+    {
+      "sound": "kick",
+      "beat": 0,
+      "time_seconds": 0.0,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 0,
+      "time_seconds": 0.0,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 0.75,
+      "time_seconds": 0.424528,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 0.75,
+      "time_seconds": 0.424528,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 2,
+      "time_seconds": 1.132075,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 2,
+      "time_seconds": 1.132075,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 2.75,
+      "time_seconds": 1.556604,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 2.75,
+      "time_seconds": 1.556604,
+      "level": 0.95,
+      "frequency": 69.2948767,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "snare",
+      "beat": 1,
+      "time_seconds": 0.566038,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 3,
+      "time_seconds": 1.698113,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "hat",
+      "beat": 0.518,
+      "time_seconds": 0.293208,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 1.518,
+      "time_seconds": 0.859245,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 2.518,
+      "time_seconds": 1.425283,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 3.518,
+      "time_seconds": 1.991321,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "stab",
+      "beat": 0,
+      "time_seconds": 0.0,
+      "level": 0.7,
+      "frequency": 92.498,
+      "length_seconds": 0.23
+    },
+    {
+      "sound": "kick",
+      "beat": 4,
+      "time_seconds": 2.264151,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 4,
+      "time_seconds": 2.264151,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 5.5,
+      "time_seconds": 3.113208,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 5.5,
+      "time_seconds": 3.113208,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 6.25,
+      "time_seconds": 3.537736,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 6.25,
+      "time_seconds": 3.537736,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 7.5,
+      "time_seconds": 4.245283,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 7.5,
+      "time_seconds": 4.245283,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "snare",
+      "beat": 5,
+      "time_seconds": 2.830189,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 7,
+      "time_seconds": 3.962264,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 6.75,
+      "time_seconds": 3.820755,
+      "level": 0.3,
+      "frequency": 46.249,
+      "length_seconds": 0.09
+    },
+    {
+      "sound": "hat",
+      "beat": 4.268,
+      "time_seconds": 2.415849,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 4.768,
+      "time_seconds": 2.698868,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 5.518,
+      "time_seconds": 3.123396,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 6.518,
+      "time_seconds": 3.689434,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 7.268,
+      "time_seconds": 4.113962,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 7.518,
+      "time_seconds": 4.255472,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "scratch",
+      "beat": 6.5,
+      "time_seconds": 3.679245,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "scratch",
+      "beat": 6.875,
+      "time_seconds": 3.891509,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "kick",
+      "beat": 8,
+      "time_seconds": 4.528302,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 8,
+      "time_seconds": 4.528302,
+      "level": 0.95,
+      "frequency": 41.203,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 8.5,
+      "time_seconds": 4.811321,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 8.5,
+      "time_seconds": 4.811321,
+      "level": 0.95,
+      "frequency": 41.203,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 9.75,
+      "time_seconds": 5.518868,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 9.75,
+      "time_seconds": 5.518868,
+      "level": 0.95,
+      "frequency": 41.203,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 10.5,
+      "time_seconds": 5.943396,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 10.5,
+      "time_seconds": 5.943396,
+      "level": 0.95,
+      "frequency": 41.203,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "snare",
+      "beat": 9,
+      "time_seconds": 5.09434,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 11,
+      "time_seconds": 6.226415,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "hat",
+      "beat": 8.518,
+      "time_seconds": 4.821509,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 9.518,
+      "time_seconds": 5.387547,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 10.518,
+      "time_seconds": 5.953585,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 11.518,
+      "time_seconds": 6.519623,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "stab",
+      "beat": 8,
+      "time_seconds": 4.528302,
+      "level": 0.7,
+      "frequency": 82.406,
+      "length_seconds": 0.23
+    },
+    {
+      "sound": "kick",
+      "beat": 12,
+      "time_seconds": 6.792453,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 12,
+      "time_seconds": 6.792453,
+      "level": 0.95,
+      "frequency": 43.654,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 12.75,
+      "time_seconds": 7.216981,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 12.75,
+      "time_seconds": 7.216981,
+      "level": 0.95,
+      "frequency": 43.654,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 14,
+      "time_seconds": 7.924528,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 14,
+      "time_seconds": 7.924528,
+      "level": 0.95,
+      "frequency": 43.654,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 15.25,
+      "time_seconds": 8.632075,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 15.25,
+      "time_seconds": 8.632075,
+      "level": 0.95,
+      "frequency": 43.654,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "snare",
+      "beat": 13,
+      "time_seconds": 7.358491,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 15,
+      "time_seconds": 8.490566,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "hat",
+      "beat": 12.268,
+      "time_seconds": 6.944151,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 12.768,
+      "time_seconds": 7.22717,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 13.518,
+      "time_seconds": 7.651698,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 14.518,
+      "time_seconds": 8.217736,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 15.268,
+      "time_seconds": 8.642264,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 15.518,
+      "time_seconds": 8.783774,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "scratch",
+      "beat": 14.5,
+      "time_seconds": 8.207547,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "scratch",
+      "beat": 14.875,
+      "time_seconds": 8.419811,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "kick",
+      "beat": 16,
+      "time_seconds": 9.056604,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 16,
+      "time_seconds": 9.056604,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 16.75,
+      "time_seconds": 9.481132,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 16.75,
+      "time_seconds": 9.481132,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 18,
+      "time_seconds": 10.188679,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 18,
+      "time_seconds": 10.188679,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 18.75,
+      "time_seconds": 10.613208,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 18.75,
+      "time_seconds": 10.613208,
+      "level": 0.95,
+      "frequency": 69.2948767,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "snare",
+      "beat": 17,
+      "time_seconds": 9.622642,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 19,
+      "time_seconds": 10.754717,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "hat",
+      "beat": 16.518,
+      "time_seconds": 9.349811,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 17.518,
+      "time_seconds": 9.915849,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 18.518,
+      "time_seconds": 10.481887,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 19.518,
+      "time_seconds": 11.047925,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "stab",
+      "beat": 16,
+      "time_seconds": 9.056604,
+      "level": 0.7,
+      "frequency": 92.498,
+      "length_seconds": 0.23
+    },
+    {
+      "sound": "kick",
+      "beat": 20,
+      "time_seconds": 11.320755,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 20,
+      "time_seconds": 11.320755,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 21.5,
+      "time_seconds": 12.169811,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 21.5,
+      "time_seconds": 12.169811,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 22.25,
+      "time_seconds": 12.59434,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 22.25,
+      "time_seconds": 12.59434,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 23.5,
+      "time_seconds": 13.301887,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 23.5,
+      "time_seconds": 13.301887,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "snare",
+      "beat": 21,
+      "time_seconds": 11.886792,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 23,
+      "time_seconds": 13.018868,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 22.75,
+      "time_seconds": 12.877358,
+      "level": 0.3,
+      "frequency": 46.249,
+      "length_seconds": 0.09
+    },
+    {
+      "sound": "hat",
+      "beat": 20.268,
+      "time_seconds": 11.472453,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 20.768,
+      "time_seconds": 11.755472,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 21.518,
+      "time_seconds": 12.18,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 22.518,
+      "time_seconds": 12.746038,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 23.268,
+      "time_seconds": 13.170566,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 23.518,
+      "time_seconds": 13.312075,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "scratch",
+      "beat": 22.5,
+      "time_seconds": 12.735849,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "scratch",
+      "beat": 22.875,
+      "time_seconds": 12.948113,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "kick",
+      "beat": 24,
+      "time_seconds": 13.584906,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 24,
+      "time_seconds": 13.584906,
+      "level": 0.95,
+      "frequency": 41.203,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 24.5,
+      "time_seconds": 13.867925,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 24.5,
+      "time_seconds": 13.867925,
+      "level": 0.95,
+      "frequency": 41.203,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 25.75,
+      "time_seconds": 14.575472,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 25.75,
+      "time_seconds": 14.575472,
+      "level": 0.95,
+      "frequency": 41.203,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 26.5,
+      "time_seconds": 15.0,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 26.5,
+      "time_seconds": 15.0,
+      "level": 0.95,
+      "frequency": 41.203,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "snare",
+      "beat": 25,
+      "time_seconds": 14.150943,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 27,
+      "time_seconds": 15.283019,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "hat",
+      "beat": 24.518,
+      "time_seconds": 13.878113,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 25.518,
+      "time_seconds": 14.444151,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 26.518,
+      "time_seconds": 15.010189,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 27.518,
+      "time_seconds": 15.576226,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "stab",
+      "beat": 24,
+      "time_seconds": 13.584906,
+      "level": 0.7,
+      "frequency": 82.406,
+      "length_seconds": 0.23
+    },
+    {
+      "sound": "kick",
+      "beat": 28,
+      "time_seconds": 15.849057,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 28,
+      "time_seconds": 15.849057,
+      "level": 0.95,
+      "frequency": 43.654,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 28.75,
+      "time_seconds": 16.273585,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 28.75,
+      "time_seconds": 16.273585,
+      "level": 0.95,
+      "frequency": 43.654,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 30,
+      "time_seconds": 16.981132,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 30,
+      "time_seconds": 16.981132,
+      "level": 0.95,
+      "frequency": 43.654,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 31.25,
+      "time_seconds": 17.688679,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 31.25,
+      "time_seconds": 17.688679,
+      "level": 0.95,
+      "frequency": 43.654,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "snare",
+      "beat": 29,
+      "time_seconds": 16.415094,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 31,
+      "time_seconds": 17.54717,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 30.75,
+      "time_seconds": 17.40566,
+      "level": 0.3,
+      "frequency": 46.249,
+      "length_seconds": 0.09
+    },
+    {
+      "sound": "hat",
+      "beat": 28.268,
+      "time_seconds": 16.000755,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 28.768,
+      "time_seconds": 16.283774,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 29.518,
+      "time_seconds": 16.708302,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 30.518,
+      "time_seconds": 17.27434,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 31.268,
+      "time_seconds": 17.698868,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 31.518,
+      "time_seconds": 17.840377,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "scratch",
+      "beat": 30.5,
+      "time_seconds": 17.264151,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "scratch",
+      "beat": 30.875,
+      "time_seconds": 17.476415,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "kick",
+      "beat": 32,
+      "time_seconds": 18.113208,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 32,
+      "time_seconds": 18.113208,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 32.75,
+      "time_seconds": 18.537736,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 32.75,
+      "time_seconds": 18.537736,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 34,
+      "time_seconds": 19.245283,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 34,
+      "time_seconds": 19.245283,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 34.75,
+      "time_seconds": 19.669811,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 34.75,
+      "time_seconds": 19.669811,
+      "level": 0.95,
+      "frequency": 69.2948767,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "snare",
+      "beat": 33,
+      "time_seconds": 18.679245,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "snare",
+      "beat": 35,
+      "time_seconds": 19.811321,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "hat",
+      "beat": 32.518,
+      "time_seconds": 18.406415,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 33.518,
+      "time_seconds": 18.972453,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 34.518,
+      "time_seconds": 19.538491,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 35.518,
+      "time_seconds": 20.104528,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "stab",
+      "beat": 32,
+      "time_seconds": 18.113208,
+      "level": 0.7,
+      "frequency": 92.498,
+      "length_seconds": 0.23
+    },
+    {
+      "sound": "scratch",
+      "beat": 34.5,
+      "time_seconds": 19.528302,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "scratch",
+      "beat": 34.875,
+      "time_seconds": 19.740566,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.115
+    },
+    {
+      "sound": "kick",
+      "beat": 36,
+      "time_seconds": 20.377358,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 36,
+      "time_seconds": 20.377358,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "kick",
+      "beat": 37.5,
+      "time_seconds": 21.226415,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 37.5,
+      "time_seconds": 21.226415,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.2
+    },
+    {
+      "sound": "kick",
+      "beat": 38,
+      "time_seconds": 21.509434,
+      "level": 1.05,
+      "frequency": 46.249,
+      "length_seconds": 0.25
+    },
+    {
+      "sound": "bass",
+      "beat": 38,
+      "time_seconds": 21.509434,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.3
+    },
+    {
+      "sound": "snare",
+      "beat": 37,
+      "time_seconds": 20.943396,
+      "level": 0.95,
+      "frequency": 46.249,
+      "length_seconds": 0.17
+    },
+    {
+      "sound": "hat",
+      "beat": 36.518,
+      "time_seconds": 20.670566,
+      "level": 0.65,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    },
+    {
+      "sound": "hat",
+      "beat": 37.768,
+      "time_seconds": 21.378113,
+      "level": 0.42,
+      "frequency": 46.249,
+      "length_seconds": 0.055
+    }
+  ],
+  "technical_qa": [
+    {
+      "file": "C_106BPM_master.wav",
+      "duration_seconds": 22.6415,
+      "sample_rate": 32000,
+      "channels": 2,
+      "bits": 16,
+      "peak_dbfs": -2.0001827379579966,
+      "clipped_samples": 0,
+      "first_samples": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        9,
+        9
+      ],
+      "last_samples": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "size_bytes": 2898156
+    },
+    {
+      "file": "C_106BPM_preview.wav",
+      "duration_seconds": 22.6415,
+      "sample_rate": 16000,
+      "channels": 2,
+      "bits": 16,
+      "peak_dbfs": -2.021901232337019,
+      "clipped_samples": 0,
+      "first_samples": [
+        2,
+        2,
+        6,
+        6,
+        22,
+        22,
+        74,
+        74
+      ],
+      "last_samples": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "size_bytes": 1449100
+    }
+  ],
+  "listening_status": "NOT AUDITIONED"
+}

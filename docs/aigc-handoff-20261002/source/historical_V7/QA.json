@@ -1,0 +1,16 @@
+{
+  "duration": 12.0,
+  "body_context": 6,
+  "new_tail": 6,
+  "logo_overlap": 0.5,
+  "black_logo": 0.5,
+  "programme": 1.7,
+  "invite": 2.1,
+  "credits": 1.7,
+  "audio": "original synthetic stereo 108 BPM; not final music; no voice",
+  "direct_reference_programme_name": false,
+  "all_marks_one_frame": true,
+  "claude_mark": "community vector for reference, not claimed as official press download or actual execution",
+  "source_action": "still frames with edit-camera motion only",
+  "approved": false
+}
