@@ -1,0 +1,45 @@
+{
+  "status": "synthetic-demonstration",
+  "currency": "CNY",
+  "unit": "万元",
+  "period": "首年",
+  "scope": "100名用户、实施、数据迁移及两项接口接入；含税",
+  "suppliers": [
+    {
+      "id": "A",
+      "name": "方案 A",
+      "base": 8.8,
+      "baseScope": "100名用户的平台年费",
+      "additions": [
+        {"id": "implementation", "label": "实施", "amount": 3.0, "source": "A-附件第2项"},
+        {"id": "migration", "label": "迁移", "amount": 2.0, "source": "A-附件第3项"},
+        {"id": "integration", "label": "接口", "amount": 2.0, "source": "A-附件第4项"}
+      ],
+      "total": 15.8
+    },
+    {
+      "id": "B",
+      "name": "方案 B",
+      "base": 10.2,
+      "baseScope": "100名用户的平台年费、实施、数据迁移及两项接口接入",
+      "additions": [],
+      "total": 10.2
+    },
+    {
+      "id": "C",
+      "name": "方案 C",
+      "base": 9.5,
+      "baseScope": "100名用户的平台年费、实施及数据迁移",
+      "additions": [],
+      "total": null,
+      "missing": "两项接口接入的价格与交付范围"
+    }
+  ],
+  "knownLowestTotal": "B",
+  "notes": [
+    "均为专门构造的演示资料，不对应实际供应商。",
+    "基础报价保持原值，新增费用按附件逐项计入。",
+    "C 的费用尚未完整，不参加完整总价排名。",
+    "视频中的动画时长不代表资料处理用时。"
+  ]
+}

@@ -10,6 +10,10 @@ BB 箱子正在建设课程、内容型活动、问答社群与媒体内容，�
 
 [打开 BB 箱子网站](https://bono12138.github.io/bb-box-show/)
 
+## 多业务官网源码
+
+[prototypes/site-stage/](prototypes/site-stage/) 保存新版多业务官网：三维舞台、报价联动演示、五类业务详情、28 篇资料、搜索、宣传封面与课程 PPT 样稿。该应用独立运行和构建，状态与操作见其 [README](prototypes/site-stage/README.md)。当前 Pages 网站继续由仓库根目录应用提供。
+
 ## 现有网站的节目招募内容
 
 - 招募聊天成员和制作伙伴
